@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Pink-Lemonade-Graphite
+Comment=A flat GTK+ theme based on Elegant Design (And pink!)
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Pink-Lemonade-Graphite
+MetacityTheme=Pink-Lemonade-Graphite
+IconTheme=Mint-Y-PinkLemonade
+CursorTheme=PinkLemonade
+ButtonLayout=close,minimize,maximize:menu
