@@ -1,4 +1,5 @@
-# Pink-Lemonade-GTK ![GitHub top language](https://img.shields.io/github/languages/top/Snap-2/Pink-Lemonade-GTK) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Snap-2/Pink-Lemonade-GTK/total)
+
+# Pink-Lemonade-GTK ![GitHub top language](https://img.shields.io/github/languages/top/Snap-2/Pink-Lemonade-GTK)
 
 >⚠️ **PLEASE READ** ⚠️
 >
@@ -9,6 +10,19 @@
 **Pink-Lemonade** is primarily and only made possible by the tools provided by [**Mint-Y-Icons**](https://github.com/linuxmint/mint-y-icons) and [**Graphite-GTK**](https://github.com/vinceliuice/Graphite-gtk-theme), done fully by editing readily available presets to generate this theme.
 
 ![enter image description here](https://raw.githubusercontent.com/Snap-2/Pink-Lemonade-GTK/refs/heads/main/README.png)
+
+## How to install this theme?
+### Cinnamon
+```bash
+git clone https://github.com/Snap-2/Pink-Lemonade-GTK
+cd Pink-Lemonade-GTK/
+mv theme/Pink-Lemonade/ ~/.themes/
+mv icons/Mint-Y-PinkLemonade/ ~/.icons/
+
+# You may execute these next few to do cleanup of all the left-overs
+cd ..
+rm -rf Pink-Lemonade-GTK/
+```
 
 ## 🎨 Colour Reference 🖌️
 ### Main Colours
